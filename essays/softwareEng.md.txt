@@ -16,7 +16,7 @@ n the scientific world. Although I never got past the hypothesis step with my pe
 l inquiries, from physics to biology, the scientific method would be the corner stone
  to carry my curious nature into the future.
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png
+<img class="ui medium right floated rounded image" src="../images/thinker.png
 ">
 
 ##The Freshmen Wall
@@ -27,7 +27,9 @@ omputer Science class and struggled immensely. Every concept, assignment, or syn
 ad me wondering why I ever took this class, but my curious nature kept wanting to und
 erstand more about programming. So, I studied, researched, emailed, and queried until
  I could visualize these new theoretical concepts. 
+ 
 ##Pursuit of Knowledge 
+
 Fast forward a dozen Computer Science courses later, at the time this short essay is 
 written, I feel a lot more confident than I did back in ICS 111. I've had a couple of
  part time jobs one dealing with the University network and the other with the Record
