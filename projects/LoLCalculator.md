@@ -13,6 +13,7 @@ summary: My team developed an application to make statistical calculation for Le
 ---
 
 ## 1) The Project
+
 Professional gamers must make concise decisions within milliseconds or it may cost them to lost a 
 match. To make these choses they study and memorize a vast amount of information about each 
 aspect of the game. For the ordinary player, these games are less competitive which makes putting 
@@ -21,13 +22,17 @@ statistical calculator that had all the data that a professional gamer would kno
 calculations depending on the given situation. It takes in to account most everything, from 
 purchasable items to the health of a target, and also can compare statistics against another 
 character.
+
 <img class="ui medium right floated rounded image" src="../images/finalhud.png">
+
 ## 2) What's Your Role 
+
 For this particular project, I could have been considered the DBA. I gathered all the data from an 
 open data source which the game creators provided. I also migrated all the data to the teams mySql 
 database system. Then helped with the application side by connecting the Java application to the 
 mySql database through a JDBC connection. Finally I wrote simple SQL queries to pull needed data 
 for the application to use to calculate.
+
 ```java
 String url = "jdbc:mysql://192.254.189.7:3306/vpawid_321project";
                Class.forName ("com.mysql.jdbc.Driver");
@@ -39,6 +44,7 @@ Champion_name, Champion_id from Passives WHERE Champion_id > 100");
 ```
 
 ## 3) The Experience
+
 This project was a terrific way to end my introduction to the SQL database and set theory. I enjoyed 
 applying my gained knowledge from the class into a tangible application. The experience also tested 
 my communication and team skills; being that this was my first experience working on a 
