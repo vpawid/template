@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: How I am Becoming a Software Engineer
 date: 2017-08-29
 labels:
