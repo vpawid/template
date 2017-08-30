@@ -14,8 +14,8 @@ summary: My team developed an application to make statistical calculation for Le
 
 ## 1) The Project
 <hr>
-Professional gamers must make concise decisions within milliseconds or it may cost them to lost a 
-match. To make these choses they study and memorize a vast amount of information about each 
+Professional gamers must make concise decisions within milliseconds or it may cost them to lose a 
+match. To make these choices they study and memorize a vast amount of information about each 
 aspect of the game. For the ordinary player, these games are less competitive which makes putting 
 in the effort to study the game very trivial. Therefore, my team and I decided to try to make a 
 statistical calculator that had all the data that a professional gamer would know and make 
