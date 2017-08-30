@@ -23,7 +23,7 @@ calculations depending on the given situation. It takes in to account most every
 purchasable items to the health of a target, and also can compare statistics against another 
 character.
 
-<img class="ui middle aligned centered image" src="../images/finalhud.PNG">
+<img class="ui fluid centered image" src="../images/finalhud.PNG">
 
 ## 2) What's Your Role 
 <hr>
