@@ -33,7 +33,7 @@ database system. Then helped with the application side by connecting the Java ap
 mySql database through a JDBC connection. Finally I wrote simple SQL queries to pull needed data 
 for the application to use to calculate.
 
-```java
+```
 String url = "jdbc:mysql://192.254.189.7:3306/vpawid_321project";
                Class.forName ("com.mysql.jdbc.Driver");
                conn =DriverManager.getConnection(url,"vpawid_test","ics321");
