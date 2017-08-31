@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ 
+image: images/hpMap.png 
 title: port2Pod	
 date: 2015
 labels:
@@ -29,6 +29,9 @@ the new data. This would speed up the responsiveness of the R&D IT team,
 because a problem that slowed down the process was locating all 
 information per the specific employee.
 
+
+<img class="ui medium centered image" src="../images/pod.png">
+
 ## 2) What's Your Role
 <hr>
 For this project, I had to wear many different hats. At first, I was a 
@@ -45,8 +48,7 @@ were not 90 degree squares it was a real challenge. Fortuitously I added
 two columns to my tables and D3 would know which shape to draw and where 
 according to which tuple it was reading.
 
-<img class="ui medium right floated rounded image" 
-src="../images/finalhud.png">
+<img class="ui medium centered image" src="../images/draft.png">
 
 ## 3) The Experience
 <hr>
