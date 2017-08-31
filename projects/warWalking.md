@@ -7,8 +7,7 @@ title: warWalking
 date: 2016
 labels:
   - Networks   
-summary: My team and I tested the security of UH Manoa's wireless 
-network.  
+summary: My team and I tested the security of UH Manoa's wireless network.  
 ---
 
 ## The Project
