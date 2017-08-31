@@ -11,8 +11,7 @@ labels:
   - PostgreSQL
   - Gunicorn
   - NGINX
-summary: During a summer internship, I was tasked to develop a web based 
-map application to run on the company intranet 
+summary: During a summer internship, I was tasked to develop a web based map application to run on the company intranet 
 ---
 
 ## 1) The Project
