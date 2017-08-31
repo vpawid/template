@@ -23,7 +23,7 @@ that will protect against any wireless network vulnerabilities.
 
 <img class="ui medium centered image" src="../images/map.png">
 
-	As a college campus, UH Manoa has a diverse population in size, 
+As a college campus, UH Manoa has a diverse population in size, 
 color and age. It was easy to suspect that students would normally carry 
 around computers and regularly work on them throughout campus; keeping 
 this in mind we approached this experiment with the intent to blend in to 
@@ -33,7 +33,7 @@ someone's credentials. Once on the network a broadcast type network
 scanner could be easily used to map the network.
 <hr>
 
-	We had acquired information of several thousand devices and granted 
+We had acquired information of several thousand devices and granted 
 that most of these devices are computers that have dynamic IP addresses 
 there were some other interesting finds. The Cisco routers for each 
 building and every access point which is made by aruba were visible and 
@@ -46,11 +46,14 @@ email alerts every once in a while. If the compromised accounts are
 allowed to access networks, hackers can use them to break in the network 
 device itself. If they can take over the network, they can obtain 
 information from others who are also connected to the network.
+
 ## Recommendations
 <hr>
+
 <img class="ui medium centered image" src="../images/warWalkingData.png">
 
-       It is recommended of the CISO to incorporate policies that will 
+
+It is recommended of the CISO to incorporate policies that will
 require the network and access points to the network be protected. 
 Security requirements should include security programs and plans that are 
 put in place for the protection of the system. Risk assessments need to 
