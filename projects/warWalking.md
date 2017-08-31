@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ 
+image: images/map.png 
 title: warWalking	
 date: 2016
 labels:
@@ -22,8 +22,7 @@ for WiFi signals, we captured the numerous available signals within our
 proximity.  The data collected can help the CISO in creating policies 
 that will protect against any wireless network vulnerabilities.   
 
-<img class="ui medium right floated rounded image" 
-src="../images/finalhud.png">
+<img class="ui medium centered image" src="../images/map.png">
 
 	As a college campus, UH Manoa has a diverse population in size, 
 color and age. It was easy to suspect that students would normally carry 
@@ -50,6 +49,7 @@ device itself. If they can take over the network, they can obtain
 information from others who are also connected to the network.
 ## Recommendations
 <hr>
+<img class="ui medium centered image" src="../images/warWalkingData.png">
 
        It is recommended of the CISO to incorporate policies that will 
 require the network and access points to the network be protected. 
