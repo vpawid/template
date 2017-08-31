@@ -91,8 +91,8 @@
       "company": "Hewlett Packard",
       "position": "Firmware Quality Assurance Intern",
       "website": "",
-      "startDate": "2016-05",
-      "endDate": "2016-07",
+      "startDate": "2016-05-01",
+      "endDate": "2016-07-01",
       "summary": "",
       "highlights": [
         "Study and analyze a cloud emulating test framework of Hp’s Instant ink cloud service ",
@@ -103,19 +103,19 @@
       "company": "Star Department UH Manoa",
       "position": "Assistant SQL Student Programmer",
       "website": "",
-      "startDate": "2015-08",
-      "endDate": "2016-05",
+      "startDate": "2015-08-01",
+      "endDate": "2016-05-01",
       "summary": "",
       "highlights": [
-        "Assist in designing SQL procedures that interface with the Oracle based student     information system."
+        "Assist in designing SQL procedures that interface with the Oracle based student information system."
       ]
     },
     {
       "company": "Hewlett Packard",
       "position": "R&D IT Intern",
       "website": "",
-      "startDate": "2015-05",
-      "endDate": "2015-08",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-01",
       "summary": "",
       "highlights": [
         "Research new technologies to develop a web application to aid the onsite IT department to quickly identify an infected machine’s specific location"
@@ -125,8 +125,8 @@
       "company": "UH Manoa Information Technology Services",
       "position": "Network Operations Student Technician",
       "website": "",
-      "startDate": "2014-05",
-      "endDate": "2015-05",
+      "startDate": "2014-05-01",
+      "endDate": "2015-05-01",
       "summary": "",
       "highlights": [
         "Configure and upgrade HP switches, Cisco switches, and wireless access points ",
@@ -139,7 +139,7 @@
       "organization": "He Makana O Aloha",
       "website": "https://www.aliimanu.com/",
       "position": "Hula Ka'i",
-      "startDate": "2005-05",
+      "startDate": "2005-05-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
