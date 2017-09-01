@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/finalproject.PNG
+image: images/finalproject2.png
 title: LoL Calculator
 date: 2014
 labels:
