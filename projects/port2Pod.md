@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/hpMap.png 
+image: images/hpMap2.png 
 title: port2Pod	
 date: 2015
 labels:
