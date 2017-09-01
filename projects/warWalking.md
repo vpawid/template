@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/map.png 
+image: images/map2.png 
 title: warWalking	
 date: 2016
 labels:
