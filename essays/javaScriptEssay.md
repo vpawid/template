@@ -8,6 +8,8 @@ labels:
   - Javascript 
 ---
 
+## Javascript
+
 <img class="ui tiny left circular floated image" src="../images/jascript.png">
 
 I have encountered the Javascript language before during an internship over the summer of 2015. D3 which is a data visualization platform built on top of Javascript was one of the technologies I decided was the best tool at the time to use. The D3 libraries are very capable, so there was no need to create a utility library for my project. Thus, I did not invest too much time in reading up on, at the time, the newly published ECMAScript 6 specifications.
