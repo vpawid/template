@@ -1,7 +1,8 @@
 ---
 layout: essay
 type: essay
-title: 
+published: true
+title: Javascript of my Life
 date: 2017-09-1
 labels:
   - Javascript 
