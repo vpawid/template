@@ -2,19 +2,22 @@
 layout: essay
 type: essay
 published: true
-title: Javascript of my Life
-date: 2017-09-1
+title: How I am Becoming a Software Engineer
+date: 2017-08-29
 labels:
-  - Javascript 
+  - Software Engineering
+  - Learning
 ---
+## Sowing the Seeds of Curiosity
+Growing up; my childhood was filled with inquiry about how the world worked. Why did people do evil things? How does the Television work? Are the current policies in place the most efficient or most effective? I would ask many questions to my parents, teachers, and even to myself. This curiosity is probably why I am extremely interested in the scientific world. Although I never got past the hypothesis step with my personal inquiries, from physics to biology, the scientific method would be the corner stone
+ to carry my curious nature into the future.
 
-## Javascript
+<img class="ui medium right floated rounded image" src="../images/thinker.png">
 
-I have encountered the Javascript language before during an internship over the summer of 2015. D3 which is a data visualization platform built on top of Javascript was one of the technologies I decided was the best tool at the time to use. The D3 libraries are very capable, so there was no need to create a utility library for my project. Thus, I did not invest too much time in reading up on, at the time, the newly published ECMAScript 6 specifications.
+## The Freshmen Wall
+Unfortunately, I did not have the opportunity to take a Software Engineer Course in high school and even in my college career it took me a while to consider enrolling in one. But finally, in the fall of 2013 I impulsively enrolled in the Introduction to Computer Science class and struggled immensely. Every concept, assignment, or syntax had me wondering why I ever took this class, but my curious nature kept wanting to understand more about programming. So, I studied, researched, emailed, and queried until I could visualize these new theoretical concepts. 
+ 
+## Pursuit of Knowledge 
 
-
-Since that experience I did not take too much interest into Javascript and focused more on the back-end language I was using. Quiet recently I have been reintroduced to the Javascript language, specifically the ES6 edition. Certain things like the for of loops are very reminiscent of python and the dictionary data structure. Another thing I find interesting is how Javascript tutorials do not introduce the concept of scope when declaring variables. I've only seen var being used in beginner tutorials about variable declaration. When using let and const it changes the variables from function scoped to block scoped.
-
-
-Javascript seems to be an increasingly popular language as many frameworks for both front-end and back-end Javascript. There is a full stack, the MEAN stack, that is programmed from back to front in all Javascript. My reintroduction to this language in my software engineer course, has been paralleled by the introduction of a new method of studying a programming language. The Athletic Software Engineering or ASE method utilizes timed exercises called Work Out of the Day or WOD. As someone who feels immense pressure when under a time limit it can be very stressful. Although the forced repetition and need for efficiency encourages students to be competitive and confident before attempting a WOD. 
+Fast forward a dozen Computer Science courses later, at the time this short essay is written, I feel a lot more confident than I did back in ICS 111. I've had a couple of part time jobs one dealing with the University network and the other with the Records office's database. Both solidifying the concepts learned in my classes, and yet only adding heat to my motivation to learn more about technology. What is so intriguing to me about technology, especially the software part, is that it is applicable to all industries. Everything is being converted to a digital version or being hooked up to the network. It is a never-ending struggle to continue to evolve as fast as the technology is, thus making life a continuous journey for Knowledge. 
 
