@@ -16,7 +16,6 @@ no need to create a utility library for my project. Thus, I did not
 invest too much time in reading up on, at the time, the newly published 
 ECMAScript 6 specifications.
 
-<img class="ui tiny left image" src="../images/javascript.png">
 
 Since that experience I did not take too much interest into Javascript 
 and focused more on the back-end language I was using. Quiet recently I 
