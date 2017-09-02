@@ -10,7 +10,8 @@ labels:
 
 
 
-<img class="ui tiny left floated image" src="../images/javascript.png">
+<img class="ui tiny left circular floated image" src="../images/javascript.png">
+
 I have encountered the Javascript language before during an internship 
 over the summer of 2015. D3 which is a data visualization platform built 
 on top of Javascript was one of the technologies I decided was the best 
