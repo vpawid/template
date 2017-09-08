@@ -16,11 +16,11 @@ How one goes about communicating their troubles to another can greatly affect th
 Here is an example of a novice trying his/her best to troubleshoot an error code.
 <blockquote>
 I am trying to get my first taste of Android development using Eclipse. I ran into this problem when trying to run Eclipse, having installed version 4.2 only minutes ago.
-<br>
+<br><br>
 After first trying to start Eclipse without any parameters to specify the Java VM, I got an error message saying it couldn't find a Java VM called javaw.exe inside the Eclipse folder, so I found where Java was installed and specified that location as the parameter in the shortcut's target. Now I get a different error, "Java was started but returned exit code=13".
-<br>
+<br><br>
 Similar questions seem to indicate that it's a 32-bit/64-bit conflict, but I'm 99% positive that I downloaded 64-bit versions of both Eclipse and Java (RE 7u5), which I chose because I have 64-bit Windows 7.
-<br>
+<br><br>
 •	If anyone knows how to confirm that my Eclipse and Java are 64-bit, that'd be appreciated.
 <br>
 •	If you think my problem is a different one, please help!
