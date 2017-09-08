@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Squashing the Bug
 date: 2017-09-07
 labels:
   - StackOverFlow
