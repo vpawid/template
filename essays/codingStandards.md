@@ -32,7 +32,7 @@ evolve over time. I didn’t use any measuring cups or weight out ingredients on
 amounts of both ingredients and time. The resulting product was satisfactory to say the least, just like with my code the food wasn’t the
 best it could be, but to me it accomplished its purpose; it was edible. 
 
-<img class="ui small left circular image" src="../images/cooking.png">
+<img class="ui small centered circular image" src="../images/cooking.png">
 
 ## Readability
 
