@@ -14,7 +14,7 @@ labels:
 
 ## ESLint
 
-<img class="ui tiny left floated image" src="../images/codeStandard.png">
+<img class="ui medium left floated image" src="../images/codeStandard.png">
 
  
 In a “Introduction to software engineering” class I have been introduced to coding standards, specifically eslint for javascript. 
@@ -32,7 +32,7 @@ evolve over time. I didn’t use any measuring cups or weight out ingredients on
 amounts of both ingredients and time. The resulting product was satisfactory to say the least, just like with my code the food wasn’t the
 best it could be, but to me it accomplished its purpose; it was edible. 
 
-<img class="ui tiny left floated rounded image" src="../images/cooking.png">
+<img class="ui small left circular image" src="../images/cooking.png">
 
 ## Readability
 
