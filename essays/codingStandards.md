@@ -18,8 +18,7 @@ labels:
 
  
 In a “Introduction to software engineering” class I have been introduced to coding standards, specifically eslint for javascript. 
-I feel that most errors are trivial and that these standards are just another red tape blocking coders for unknown reasons. For instance, 
-the error that is concerned with spacing between a parenthesis and a bracket for objects or arrays. I believe 
+I feel that most errors are trivial and that these standards are just another red tape blocking coders for unknown reasons. For instance array-bracket-spacing, the error that is concerned with spacing between a parenthesis and a bracket for objects or arrays. I believe 
 that this entire process could be more effective if automated. Being that I have never used a coding standard I had developed my
 own personal habits which I have stuck with since I started. 
 
