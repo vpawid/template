@@ -17,14 +17,14 @@ labels:
 <img class="ui medium left floated image" src="../images/codeStandard.png">
 
  
-In a “Introduction to software engineering” class I have been introduced to coding standards, specifically eslint for javascript. 
+In an “Introduction to software engineering” class I have been introduced to coding standards, specifically eslint for javascript. 
 I feel that most errors are trivial and that these standards are just another red tape blocking coders for unknown reasons. For instance array-bracket-spacing, the error that is concerned with spacing between a parenthesis and a bracket for objects or arrays. I believe 
 that this entire process could be more effective if automated. Being that I have never used a coding standard I had developed my
 own personal habits which I have stuck with since I started. 
 
 ## Old Habits
 
-From this shallow experience with coding standards, I have this impression that coding standards are similar to any other standard, but 
+From this shallow experience with ESLint, I have this impression that coding standards are similar to any other standard, but 
 specifically in the culinary sense. When I first started cooking I didn’t really follow a recipe by the measurements; just as I would code
 based on examples I’ve seen in class. And being that each class would have a different teacher, my individual coding style would naturally
 evolve over time. I didn’t use any measuring cups or weight out ingredients on a food scale, rather I felt confident in just eye-balling 
