@@ -24,7 +24,7 @@ needs to cook the vegetables and meat then chuck the curry blocks in and presto 
 curry. This is so popular in japan that supermarkets have a whole section dedicated to several types of 
 premade curry mixes.
 
-<img class="ui large center rounded image" src="../images/curry-japanese-market.png">
+<img class="ui large centered rounded image" src="../images/curry-japanese-market.png">
 
 Building a website with a CSS framework is like cooking with premade ingredients; it’s faster and will 
 produce a high-quality product. The framework I have been working closely with recently is Semantic UI. 
