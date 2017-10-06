@@ -9,7 +9,6 @@ labels:
   - Learning
   - Semantic UI
 ---
-
 Have you ever tried to cook? I mean actually start from scratch with raw ingredients; it’s fun to 
 experience this and can turn out some quality food, but after a while it becomes cumbersome. Just like 
 building a style for a website only using cascading style sheet. Starting with a blank page, working on
@@ -25,8 +24,7 @@ needs to cook the vegetables and meat then chuck the curry blocks in and presto 
 curry. This is so popular in japan that supermarkets have a whole section dedicated to several types of 
 premade curry mixes.
 
-<img class="ui large center rounded image" 
-src="../images/curry-japanese-market.png">
+<img class="ui large center rounded image" src="../images/curry-japanese-market.png">
 
 Building a website with a CSS framework is like cooking with premade ingredients; it’s faster and will 
 produce a high-quality product. The framework I have been working closely with recently is Semantic UI. 
