@@ -2,13 +2,12 @@
 layout: essay
 type: essay
 published: true
-title: A Cooks Coding Standard
-date: 2017-09-20
+title: A Cooking Framework
+date: 2017-10-05
 labels:
-  - ESLing
-  - JavaScript
+  - CSS
   - Learning
-  - Coding Standards
+  - Semantic UI
 ---
 
 Have you ever tried to cook? I mean actually start from scratch with raw ingredients; it’s fun to 
@@ -25,6 +24,9 @@ spices a curry base requires a person that wants to make curry can pick a box of
 needs to cook the vegetables and meat then chuck the curry blocks in and presto great tasting Japanese 
 curry. This is so popular in japan that supermarkets have a whole section dedicated to several types of 
 premade curry mixes.
+
+<img class="ui large center rounded image" 
+src="../images/curry-japanese-market.png">
 
 Building a website with a CSS framework is like cooking with premade ingredients; it’s faster and will 
 produce a high-quality product. The framework I have been working closely with recently is Semantic UI. 
