@@ -8,7 +8,7 @@ labels:
   - Design Patterns
 ---
 
-##Hidden in plain Design
+## Hidden in plain Design
 
   I am currently at the beginnings of my software engineering journey, as such I have vast amounts of knowledge, yet to be discovered;
 one of which are design patterns. Previouse to my software engineering class I have not had a formal introduction to what design patterns are,
