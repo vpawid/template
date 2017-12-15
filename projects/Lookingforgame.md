@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/finalproject2.png
+image: images/landingpage.PNG
 title: LookingForGame
 date: 2017
 labels:
@@ -21,7 +21,7 @@ playing video games maybe fun, but its tenfold having fun with friends. It was i
 with each other that they would have otherwise had a slim chance of meeting. The Meteor application holds 
 profiles of its users in a Mongo database and indexes them on the games they play.
 
-<img class="ui centered image" src="../images/finalhud.PNG">
+<img class="ui centered image" src="../images/l4g.PNG">
 
 ## 2) What's Your Role 
 <hr>
@@ -31,15 +31,7 @@ project idea. Each team member should to have their hand in every part of the pr
 of a team member not pulling their weight. Fortunately this was not the case for this project. What I had done specifically
 was help with implementing the design of the search page, routing parts of the website, adding to schema design and so on.
 
-```
-String url = "jdbc:mysql://192.254.189.7:3306/vpawid_321project";
-               Class.forName ("com.mysql.jdbc.Driver");
-               conn =DriverManager.getConnection(url,"vpawid_test","ics321");
-               System.out.println ("Database connection established");
-                
-               PreparedStatement statement = conn.prepareStatement("select 
-Champion_name, Champion_id from Passives WHERE Champion_id > 100");
-```
+<img class="ui centered image" src="../images/lfg.PNG">
 
 ## 3) The Experience
 <hr>
