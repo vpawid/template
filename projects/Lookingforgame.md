@@ -39,3 +39,5 @@ This was not my first time working with a team, but it was my first time working
 motivation and discipline of the team had a heavy impact on my own productivity, it also made working together fun. I 
 contribute the team spirit to each team members cooperative attitude and the fact that we met multiple times a week; coding
 on the same table. Github was used for version control and we did learn some important lessons about project management.
+All in all this experience has motivated me to start exploring more teambased coding oppurtunities and collaborate
+with other like minded programmers.
