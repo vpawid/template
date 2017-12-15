@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/landingpage.PNG
+image: images/landing.png
 title: LookingForGame
 date: 2017
 labels:
